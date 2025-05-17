@@ -54,13 +54,13 @@
 	background-color: #ffffff;
 	border-radius: 6px;
     line-height: 1.3;
-    padding: .375rem .75rem;
+    padding: .375rem .5rem;
     color: var(--cf7-input-text);
     min-height: 35px;
     font-size: var(--cf7-font-size);
     font-weight: var(--cf7-font-weight);
     font-family: var(--cf7-font);
-    width: 100%;
+    width: calc(100% - 1rem);
 
 }
 /* Other Inputs */
